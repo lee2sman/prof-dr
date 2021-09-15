@@ -35,7 +35,7 @@ var ringName = 'Anti Software Social Club';
 var ringID = 'social';
 
 //should the widget include a link to an index page?
-var useIndex = false;
+var useIndex = true;
 //the full URL of the index page. if you're not using one, you don't have to specify anything here
 var indexPage = 'https://faculty.purchase.edu/anti-software/';
 
