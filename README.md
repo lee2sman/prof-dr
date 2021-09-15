@@ -1,5 +1,7 @@
 # Prof. Dr. Style
 
+[Faculty page](https://faculty.purchase.edu/lee.tusman)
+
 My "Prof. Dr. style" website for my courses at Purchase College.
 
 ### Info:
