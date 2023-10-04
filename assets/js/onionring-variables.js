@@ -8,26 +8,28 @@
 //the full URLs of all the sites in the ring
 var sites = [
   'https://faculty.purchase.edu/lee.tusman/',
-  'https://students.purchase.edu/julie.zen/now/',
-  'https://students.purchase.edu/christian.tapia/',
-  'https://students.purchase.edu/macreen.smith/',
-  'https://students.purchase.edu/christopher.petrella/',
-  'https://students.purchase.edu/michael.parducci/',
-  'https://students.purchase.edu/scotia.morris/now/',
-  'https://students.purchase.edu/sarah.meyers/',
-  'https://students.purchase.edu/brock.mento/me%20page/',
-  'https://students.purchase.edu/melissandre.jones/',
-  'https://students.purchase.edu/luis.gonzales/',
-  'https://students.purchase.edu/YARED.GLICKSMAN/nowam',
-  'https://students.purchase.edu/griffin.gagler/now/',
-  'https://students.purchase.edu/jose.figueroa/',
-  'https://students.purchase.edu/phylip.derival',
-  'https://students.purchase.edu/Z.crisostomo/',
-  'https://students.purchase.edu/tyler.capossela/'
+  'https://students.purchase.edu/KHADIJAH.BOOTHE',
+  'http://students.purchase.edu/V.DAMIANMONSALVE/',
+  'https://students.purchase.edu/lex.decker',
+  'https://students.purchase.edu/BRIANNA-M.DIAZ',
+  'https://students.purchase.edu/MORITZ.DRESCH',
+  'https://students.purchase.edu/JOSEPH.FRANK',
+  'https://students.purchase.edu/DAVID.GARCIA',
+  'https://students.purchase.edu/ANTHONY.GOJANI',
+  'https://students.purchase.edu/MUHAMMED.HANAN',
+  'https://students.purchase.edu/HELEN.HUANG',
+  'https://students.purchase.edu/QURAN.LANGSTON',
+  'https://students.purchase.edu/SACIA.MATTHEWS',
+  'https://students.purchase.edu/ELENA.NEUFELD',
+  'https://students.purchase.edu/MARIO.OLMEDO',
+  'https://students.purchase.edu/GRANT.RENNER',
+  'https://students.purchase.edu/RAVEN.SHAW',
+  'https://students.purchase.edu/BRANDON.VASSALLO',
+  'https://students.purchase.edu/JUSTIN.WILLIAMS'
 ];
 
 //the name of the ring
-var ringName = 'Anti Software Social Club';
+var ringName = 'Social Software Social Club';
 
 /* the unique ID of the widget. two things to note:
  1) make sure there are no spaces in it - use dashes or underscores if you must
@@ -37,7 +39,7 @@ var ringID = 'social';
 //should the widget include a link to an index page?
 var useIndex = true;
 //the full URL of the index page. if you're not using one, you don't have to specify anything here
-var indexPage = 'https://faculty.purchase.edu/lee.tusman/anti-software/';
+var indexPage = 'https://faculty.purchase.edu/lee.tusman/social-software/';
 
 //should the widget include a random button?
 var useRandom = true;
