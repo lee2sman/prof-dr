@@ -1,11 +1,10 @@
 html {
-    background-color: #f2e6d9;
+    background-color: #bee9e8;
 }
 
 body {
     font: normal 12pt/14pt, sans-serif;
-    background: #e6eeff;
-    color: #111;
+    color: #353535;
     width: 85vw;
     margin-top: 7%;
     margin-bottom: 7%;
@@ -77,10 +76,12 @@ s {
 }
 
 /************* (link) ***********/
-
+a {
+color: 
+	color: purple important!;
+}
 a:link {
         color: #00AACC;
-
 }
 
 a:visited {
@@ -169,13 +170,13 @@ img {
     max-width: 400px;
     width: 100%;
     height: auto;
-    margin-bottom: 15px;
-    margin-bottom: 15px;
+    margin-top: 1em;
+    margin-bottom: 2em;
     display: block;
     background: #fff2e6;
 }
  p {
-  font-size: 1.25em;
+  font-size: 1em;
  }
 
 .broider {
