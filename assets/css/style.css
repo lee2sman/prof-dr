@@ -178,6 +178,11 @@ code {
  p {
   font-size: 1em;
  }
+ .banners {
+   height: 31px;
+   width: 88px;
+   border: 1px solid #000;
+ }
 
 .broider {
     border-image:  url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAACTUlEQVR4nO2Y4XKEIAwGyfs/tP3T9kBQiFk4z/t2xpm2d4awhIhNKYqlLaXTSziRUJhDmSahfkxC3WwvabalZP+/n8lMKW3//dWy6/PYzyeK9Xqk9/o0aKGoTAlNlRA72O5WfV5959O3/KWCsAMZ3ENm34N7CZW5WCoXzLLFfPXpvNf7sL+8bHv93B7/d9x+wNSQmV1RvPFWtxg8/uHNSIWaO95aof2C8gs9Og69R2h+ysi2dr4FszbVyP1yfrs8twPZkQGaRyhnuFayVv2tvagjPasR3wohw/c3F7yW6qN7ePcHnLuFT+JfbDHez3v5wULjLwq9hKP5dr6f5X/xGLjtg5gvwTKdfPsOVGs51tAxJVSheQuasuUHyCfLVizzInAstyiOsfzbz4CiVweJN2m4pVSwLeX03qGH5jn5il08Vk0VOvAMcI13Go+oUPbct/s/Abbls7jVjqh6+UC8qS1qfpO+GbNblIQmCQ0hoTC40OkrdHOmV6SEwgElFA4oocEATxe4/CkuoXcf4GZIKIwO7kGWF4yETh7waUgojITCSCiMhMJIKMzbhUrw3Qe4GRIKI6Ew6qmTkVAYCYWRUBgJhZFQGAmFkVAYHeyD6E0JRkJhJBQGn+/The1ZXpFPR0JhJBRmes/8dqF4QAmFA0ooHFBC4YDeAXr30wnT8SUUji+hcHwJhePjQr0D0MKj988WHBYuoRIqoV8tdHXC9AJECc9fQn35hgNIqISGoOePJ7ia6ALi85dQCS2QUJjbCX0aEgYjoTASCjNV6A95rLoip9URPgAAAABJRU5ErkJggg==") 28 /  28px / 0 round;
