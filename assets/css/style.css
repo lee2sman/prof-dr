@@ -1,5 +1,9 @@
 html {
-    background-color: #bee9e8;
+    background-color: #f7c6fc;
+    height: 100%;
+    background: radial-gradient(ellipse at right, white, transparent),
+		radial-gradient(ellipse at left, #f7c6fc, transparent);
+
 }
 
 body {
@@ -28,7 +32,9 @@ u {
         color: black;
         background: #9c9;
 }
-
+figure{
+  margin: none;
+}
 strong {
         display: inline;
         font-style: normal;
@@ -165,7 +171,6 @@ h2, h3 {
 code {
     background-color: lightgrey;
 }
-
 #banner { 
     max-width: 400px;
     width: 100%;
