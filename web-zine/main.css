@@ -1,0 +1,25 @@
+html {
+  height: 100vh;
+  background-image: url("phone-wallpaper.jpg");
+}
+body {
+  color: darkblue;
+  width: 50ch;
+  margin-left: 5em;
+  background: ghostwhite;
+  padding: 1em;
+  border-radius: 0.3em;
+}
+ul {
+  list-style-type: none;
+  display: inline-block;
+}
+li {
+  background-color: lightgreen;
+  padding: 0.5em;
+  margin: 0.5em;
+}
+#students {
+  display: none;
+  font-style: italic;
+}
